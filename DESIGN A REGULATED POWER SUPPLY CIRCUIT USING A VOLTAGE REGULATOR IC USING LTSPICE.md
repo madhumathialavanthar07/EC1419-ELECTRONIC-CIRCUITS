@@ -6,9 +6,13 @@
 
 <img width="756" height="368" alt="image" src="https://github.com/user-attachments/assets/aa815e31-1643-4c2b-afda-0c436818087e" />
 
-## Tabulations
 
 ## Graph
+
+
+<img width="619" height="539" alt="Screenshot 2025-11-23 154052" src="https://github.com/user-attachments/assets/30133ca0-a582-4f67-813b-7681652315ec" />
+
+<img width="661" height="360" alt="image" src="https://github.com/user-attachments/assets/853d9558-ec84-4eb4-b7b1-6cf7dd4ea4d0" />
 
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
